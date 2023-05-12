@@ -9,14 +9,14 @@
 npx create-react-app frontend  --template typescript
 ```
 - ပြီးရင် backend folder တစ်ခု လုပ်ပြီး express server တစ်ခု လုပ်ထားပါမယ်
-- စစစစစစ
+
 - ဆက်ပြီး project folder အောက်မှာပဲ **.gitignore** ဖိုင်တစ်ခုလုပ်ပြီး 
 ```
 **/node_modules 
 **/builds
 ```
 - ကို ထည့်ပေးလိုက်ပါမယ်။
-- စစစစစစ
+
 ### frontend folder ထဲက **.gitignore** ဖိုင် ကို ဖျက်ပေးလိုက်ပြီး
 
 ```sql
